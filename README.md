@@ -1,2 +1,2 @@
 # hello-world
-Repository of DBE Course - Class 02 - Cubos Academy
+> Create repository for introduction exercise of DBE Course - Class 02 - Cubos Academy.
